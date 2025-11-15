@@ -17,9 +17,7 @@ I love tackling complex backend challenges: database optimization, API design, c
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minas990&layout=compact&theme=dark&hide=html,css&langs_count=20)
 
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -87,8 +85,8 @@ I love tackling complex backend challenges: database optimization, API design, c
 ---
 
 
-#### 🧪 Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minas990&layout=compact&theme=dark&hide=html,css&langs_count=20)
+
 
 ---
 
