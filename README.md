@@ -17,6 +17,10 @@ I love tackling complex backend challenges: database optimization, API design, c
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minas990&layout=compact&langs_count=20)
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Programming Languages
