@@ -13,8 +13,7 @@ I love tackling complex backend challenges: database optimization, API design, c
 ---
 
 ### 🌱 Currently Exploring
-🚀 Building **Microservices** with **NestJS** and **Go Fiber**  
-⚙️ Setting up **CI/CD pipelines** for smooth, automated deployments  
+☁️ Deploying and scaling services on **Google Cloud (GCP)** and **AWS Cloud**  
 
 ---
 
@@ -56,10 +55,15 @@ I love tackling complex backend challenges: database optimization, API design, c
 
 ---
 
+#### 📊 Observability & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
 #### ⚡ Performance & Messaging
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Bull](https://img.shields.io/badge/Bull-DA291C?style=for-the-badge&logo=npm&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ---
@@ -68,6 +72,7 @@ I love tackling complex backend challenges: database optimization, API design, c
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
