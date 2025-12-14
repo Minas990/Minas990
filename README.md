@@ -4,20 +4,15 @@
 ---
 
 ### 🧠 About Me
-I'm a backend developer passionate about building **scalable**, **secure**, and **high-performance** backend systems.  
-Grounded in solid **Computer Science fundamentals** — _Operating Systems, Design Patterns, and Networking_ — I craft efficient backend architectures using **Node.js**, **Go**, and modern frameworks.  
+I am a backend developer focused on designing and building scalable, secure, and high-performance systems. With a strong foundation in Computer Science fundamentals—including Operating Systems, Networking, and Design Patterns—I develop reliable backend architectures that perform well under real-world constraints.
 
-💡 High problem-solving skills on [LeetCode](https://leetcode.com/u/MiNa_Z/)  
-I love tackling complex backend challenges: database optimization, API design, caching, and system integration — always prioritizing performance and reliability.
-
+I work primarily with Node.js and Go, leveraging modern frameworks and best practices to deliver clean, maintainable, and efficient solutions. I enjoy solving complex backend challenges such as database optimization, API design, caching strategies, and system integration, always with an emphasis on performance, reliability, and scalability.
 ---
 
 ### 🌱 Currently Exploring
 ☁️ Deploying and scaling services on **Google Cloud (GCP)** and **AWS Cloud**  
 
 ---
-
-
 
 ### 🛠️ Tech Stack & Tools
 
