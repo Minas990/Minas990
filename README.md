@@ -6,6 +6,7 @@
 ### 🧠 About Me
 I am a backend developer focused on designing and building scalable, secure, and high-performance systems. With a strong foundation in Computer Science fundamentals—including Operating Systems, Networking, and Design Patterns—I develop reliable backend architectures that perform well under real-world constraints.
 I work primarily with Node.js and Go, leveraging modern frameworks and best practices to deliver clean, maintainable, and efficient solutions. I enjoy solving complex backend challenges such as database optimization, API design, caching strategies, and system integration, always with an emphasis on performance, reliability, and scalability.
+
 ---
 
 ### 🌱 Currently Exploring
