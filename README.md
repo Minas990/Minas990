@@ -58,7 +58,7 @@ I work primarily with Node.js and Go, leveraging modern frameworks and best prac
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minas990&layout=compact&theme=dark&hide=html,css&langs_count=20)
+![Top Langs](https://top-langs-card.vercel.app/top-langs?user=minas990)
 
 
 ---
