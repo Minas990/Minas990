@@ -48,7 +48,7 @@ I work primarily with Node.js and Go, leveraging modern frameworks and best prac
 #### ⚡ Performance & Messaging
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://hexmos.com/freedevtools/svg_icons/apachekafka/apachekafka-original.svg)
+![Kafka](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=kafka&logoColor=white)
 ---
 
 #### 🐳 DevOps & Deployment
