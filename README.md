@@ -4,13 +4,16 @@
 ---
 
 ### 🧠 About Me
-I am a backend developer focused on designing and building scalable, secure, and high-performance systems. With a strong foundation in Computer Science fundamentals—including Operating Systems, Networking, and Design Patterns—I develop reliable backend architectures that perform well under real-world constraints.
-I work primarily with Node.js and Go, leveraging modern frameworks and best practices to deliver clean, maintainable, and efficient solutions. I enjoy solving complex backend challenges such as database optimization, API design, caching strategies, and system integration, always with an emphasis on performance, reliability, and scalability.
+I am a Computer Science student focused on backend development, currently expanding my skill set toward DevOps engineering.
+With a strong foundation in Operating Systems, Networking, and Computer Architecture, I enjoy building backend systems that are scalable, reliable, and efficient.
+I work primarily with Node.js and Go, and I'm actively diving into areas like concurrency, distributed systems, and event-driven architecture through personal projects and continuous learning.
 
 ---
 
 ### 🌱 Currently Exploring
-☁️ Deploying and scaling services on **AWS Cloud**  
+1.☁️ Deploying and scaling production services on AWS
+2.🏗️ Infrastructure as Code with Terraform
+3.⚙️ CI/CD pipelines using Jenkins and modern DevOps workflows
 
 ---
 
