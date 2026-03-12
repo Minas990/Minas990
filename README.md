@@ -11,9 +11,9 @@ I work primarily with Node.js and Go, and I'm actively diving into areas like co
 ---
 
 ### 🌱 Currently Exploring
-1.☁️ Deploying and scaling production services on AWS
-2.🏗️ Infrastructure as Code with Terraform
-3.⚙️ CI/CD pipelines using Jenkins and modern DevOps workflows
+1.☁️ Deploying and scaling production services on AWS.
+2.🏗️ Infrastructure as Code with Terraform.
+3.⚙️ CI/CD pipelines using Jenkins and modern DevOps workflows.
 
 ---
 
