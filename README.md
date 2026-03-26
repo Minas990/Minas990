@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm **Minas Bakhet**
-🎯 **Backend Developer | Computer Science Student | Competitive Programmer**
+🎯 **Backend Engineer | Computer Science Student | Competitive Programmer | devops Engineer**
 
 ---
 
