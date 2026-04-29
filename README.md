@@ -1,4 +1,4 @@
-## 👋 Hi, I'm **Minas Bakhet**
+## 👋 Hi, I'm **Mina Bakheet**
 🎯 **Backend Engineer | Computer Science Student | Competitive Programmer | devops Engineer**
 
 ---
@@ -11,9 +11,8 @@ I work primarily with Node.js and Go, and I'm actively diving into areas like co
 ---
 
 ### 🌱 Currently Exploring
-1. ☁️ Deploying and scaling production services on AWS.
-2. 🏗️ Infrastructure as Code with Terraform.
-3. ⚙️ CI/CD pipelines using Jenkins and modern DevOps workflows.
+1. 🏗️ Infrastructure as Code with Terraform.
+2. ⚙️ CI/CD pipelines using Jenkins and modern DevOps workflows.
 
 ---
 
