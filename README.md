@@ -59,7 +59,9 @@ I work primarily with Node.js and Go, and I'm actively diving into areas like co
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
-![AWS](https://skillicons.dev/icons?i=aws)
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/733761f0-913f-4355-9861-249673dc33d4/public_url)
+
 
 ---
 
