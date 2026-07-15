@@ -11,10 +11,9 @@ I work primarily with Node.js and Go, and I'm actively diving into areas like co
 ---
 
 ### 🌱 Currently Exploring
-1. ☁️ AWS Certified Solutions Architect
-2. 📖 Reading *Database Internals* — Alex Petrov
-3. 🏗️ Infrastructure as Code with Terraform
-4. ⚙️ CI/CD pipelines 
+1. 📖 Reading *Database Internals* — Alex Petrov
+2. 🏗️ Infrastructure as Code with Terraform
+3. ⚙️ CI/CD pipelines 
 ---
 
 ### 🛠️ Tech Stack & Tools
