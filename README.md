@@ -62,7 +62,7 @@ I work primarily with Node.js and Go, and I'm actively diving into areas like co
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/733761f0-913f-4355-9861-249673dc33d4/public_url)
-
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/f839854c-10f3-4f44-a4c2-58cd15cb6f37/public_url)
 
 ---
 
