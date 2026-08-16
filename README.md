@@ -1,42 +1,28 @@
 ## 👋 Hi, I'm **Mina Bakheet**
-🎯 **Backend Engineer | Computer Science Student | Competitive Programmer | devops Engineer**
+🎯 **Backend Engineer | Computer Science Student | Competitive Programmer | DevOps Engineer**
 
 ---
 
 ### 🧠 About Me
-I am a Computer Science student focused on backend development, currently expanding my skill set toward DevOps engineering.
-With a strong foundation in Operating Systems, Networking, and Computer Architecture, I enjoy building backend systems that are scalable, reliable, and efficient.
-I work primarily with Node.js and Go, and I'm actively diving into areas like concurrency, distributed systems, and event-driven architecture through personal projects and continuous learning.
+Backend-focused CS student with a strong foundation in OS, networking, and computer architecture. I build scalable, reliable systems with Node.js and Go, and I'm expanding into DevOps and distributed systems.
 
----
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/140x140/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/733761f0-913f-4355-9861-249673dc33d4/public_url)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/f839854c-10f3-4f44-a4c2-58cd15cb6f37/public_url)
 
-### 🌱 Currently Exploring
-1. 📖 Reading *Database Internals* — Alex Petrov
-2. 🏗️ Infrastructure as Code with Terraform
-3. ⚙️ CI/CD pipelines 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### 💻 Programming Languages
+#### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Assembly x86](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Assembly x86](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-005CA0?style=for-the-badge&logo=delphi&logoColor=white)
-
----
-
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 
 #### ⚙️ Backend Frameworks
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -44,36 +30,34 @@ I work primarily with Node.js and Go, and I'm actively diving into areas like co
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Go Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-#### ⚡ Performance & Messaging
+#### ⚡ Messaging & Caching
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&logoColor=white)
----
 
-#### 🐳 DevOps & Deployment
+#### 🐳 DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
-
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/733761f0-913f-4355-9861-249673dc33d4/public_url)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/f839854c-10f3-4f44-a4c2-58cd15cb6f37/public_url)
 
 ---
 
 ![Top Langs](https://top-langs-card.vercel.app)
 
-
 ---
 
 ### 🌐 Let's Connect!
-📧 **[Email Me](mailto:mynabekheet@gmail.com)**  
+📧 **[Email Me](mailto:mynabekheet@gmail.com)**
 
 ---
 
-> ⭐️ “Experience is the name everyone gives to their mistakes.”  
+> ⭐️ "Experience is the name everyone gives to their mistakes."
 > — Oscar Wilde
